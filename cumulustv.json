@@ -1,8 +1,5 @@
 {"channels":[
 
-
-
-
 {"number":"100","name":"HRT 1","logo":"http://vignette3.wikia.nocookie.net/logopedia/images/9/9e/Htv1-logo.png/revision/latest?cb=20151126181359","url":"http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8","splashscreen":"","genres":"NEWS"},
 {"number":"102","name":"HRT 2","logo":"http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/Htv2-logo.png/revision/latest?cb=20151126181741","url":"http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8","splashscreen":"","genres":"NEWS"},
 {"number":"103","name":"RTL","logo":"http://3.bp.blogspot.com/-w48Cmltf8A8/Vgpx41DYccI/AAAAAAAAA90/TOG-xB1_d2c/s1600/rtl-televizija-logo.png","url":"http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8","splashscreen":"","genres":"NEWS"},
