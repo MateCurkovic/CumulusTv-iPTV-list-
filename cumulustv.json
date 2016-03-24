@@ -1,0 +1,16 @@
+{"channels":[
+
+
+
+
+{"number":"100","name":"HRT 1","logo":"http://vignette3.wikia.nocookie.net/logopedia/images/9/9e/Htv1-logo.png/revision/latest?cb=20151126181359","url":"http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8","splashscreen":"","genres":"NEWS"},
+{"number":"102","name":"HRT 2","logo":"http://vignette1.wikia.nocookie.net/logopedia/images/d/d0/Htv2-logo.png/revision/latest?cb=20151126181741","url":"http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8","splashscreen":"","genres":"NEWS"},
+{"number":"103","name":"RTL","logo":"http://3.bp.blogspot.com/-w48Cmltf8A8/Vgpx41DYccI/AAAAAAAAA90/TOG-xB1_d2c/s1600/rtl-televizija-logo.png","url":"http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8","splashscreen":"","genres":"NEWS"},
+{"number":"109","name":"National Geographic","logo":"http://vignette4.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest?cb=20100927231400","url":"http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8","splashscreen":"https://i.ytimg.com/vi/ZnBg4MCg7Mg/maxresdefault.jpg","genres":"NEWS"},
+{"number":"110","name":"VEVO 1","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1000px-Vevo_logo.svg.png","url":"http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8","splashscreen":"http://meademagazine.com/wp-content/uploads/2014/04/Screenshot-75.png","genres":"MUSIC"},
+{"number":"111","name":"VEVO 2","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1000px-Vevo_logo.svg.png","url":"http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8","splashscreen":"http://meademagazine.com/wp-content/uploads/2014/04/Screenshot-75.png","genres":"MUSIC"},
+{"number":"112","name":"VEVO 3","logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1000px-Vevo_logo.svg.png","url":"http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8","splashscreen":"http://meademagazine.com/wp-content/uploads/2014/04/Screenshot-75.png","genres":"MUSIC"},
+{"number":"113","name":"Disney","logo":"http://cdnvideo.dolimg.com/cdn_assets/0dfecd0d9b7870bcb6037932bb22a5ea366ba029.png","url":"http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8","splashscreen":"","genres":"KIDS"},
+{"number":"114","name":"Nat Geo Wild","logo":"https://upload.wikimedia.org/wikipedia/de/thumb/8/8f/Nat_Geo_Wild_Variante_Logo.svg/720px-Nat_Geo_Wild_Variante_Logo.svg.png","url":"http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8","splashscreen":"","genres":"KIDS"},
+
+{"number":"120","name":"FOX Life","logo":"http://tvprofil.net/img/kanali-logo/fox-life-logo.PNG","url":"http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8","splashscreen":"http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/foxlife.png?ver=c9c2768e-4cb9-4830-8a96-362f37aef6bf","genres":"TECH_SCIENCE"}],"modified":1454274345260,"possibleGenres":["COMEDY","ENTERTAINMENT","LIFE_STYLE","MOVIES","MUSIC","NEWS","PREMIER","SHOPPING","SPORTS","TECH_SCIENCE","TRAVEL"]}
