@@ -7,4 +7,4 @@ Nakon toga odite u aplikaciju Cumulus TV na svom na svom TV-u i izaberite Switch
 
 Sada odite u Live Channels aplikaciju i tamo odaberite izvor Cumulus koji će prikazati sve kanale.
 
-za više pitanja pišite na twitteru @matecurkovic ili na forumu  www.kodi.co.hr
+za više pitanja pišite na twitteru @matecurkovic ili na forumu  www.kodi.com.hr
